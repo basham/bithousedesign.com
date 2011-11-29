@@ -7,4 +7,8 @@ class BitHouseDesign < Sinatra::Base
     send_file File.join('public', 'index.html')
   end
 
+  not_found do
+    redirect '/'
+  end
+  
 end
