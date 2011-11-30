@@ -63,7 +63,7 @@ footer a {
 	height: 46px;
 	text-indent: -9999px;
 	overflow: hidden;
-	background: #E3E3E3 url(/i/email.png) no-repeat 50% 50%; }
+	background: #E3E3E3 url(/i/sprites.png) no-repeat 3px 50%; }
 
 footer a:hover {
 	background-color: #FFFFFF; }
@@ -72,4 +72,4 @@ footer a:active {
 	margin-top: 2px; }
 	
 #twitter a {
-	background-image: url(/i/twitter.png);  }
+	background-position: -38px 50%; }
