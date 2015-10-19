@@ -17,7 +17,7 @@ body {
 	font-size: 62.5%;
 	line-height: 1.6;
 	font-family: chaparral-pro, sans-serif;
-	background: #CCCCCC url(/i/grid.png) repeat 50% 0; }
+	background: #CCCCCC url(../i/grid.png) repeat 50% 0; }
 
 header, footer {
 	display: block;
@@ -27,7 +27,7 @@ header, footer {
 header {
 	padding: 240px 0 0;
 	text-align: center;
-	background: url(/i/symbol.png) no-repeat 50% 5px; }
+	background: url(../i/symbol.png) no-repeat 50% 5px; }
 
 h1 {
 	font-size: 23px; }
@@ -63,7 +63,7 @@ footer a {
 	height: 46px;
 	text-indent: -9999px;
 	overflow: hidden;
-	background: #E3E3E3 url(/i/sprites.png) no-repeat 3px 50%; }
+	background: #E3E3E3 url(../i/sprites.png) no-repeat 3px 50%; }
 
 footer a:hover {
 	background-color: #FFFFFF; }
